@@ -1,11 +1,11 @@
 
 repositories{
-    jcenter()
-    maven { url "https://jitpack.io" }
+    mavenCentral()
+    maven { url 'https://jitpack.io' }
 }
 
 dependencies {
-    implementation 'com.github.AlexMiniApps:android-transcoder:56f5ec8821'
+    implementation 'com.klinkerapps:android-transcoder:1.0.2'
 }
 
 android {
