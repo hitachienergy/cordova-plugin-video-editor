@@ -5,7 +5,7 @@ repositories{
 }
 
 dependencies {
-    implementation 'com.klinkerapps:android-transcoder:1.0.2'
+    implementation 'com.github.AlexMiniApps:android-transcoder:56f5ec8821'
 }
 
 android {
